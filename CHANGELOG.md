@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.0.1] - (11-05-2022)
+fix: (0000ff4) docker publish to use 'latest' tag
+
 ## [0.7.1] - (04-05-2022)
 fix: (7208c91) Stage dependencies (#20)
 
